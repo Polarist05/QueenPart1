@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<iostream>
-using namespace std;
-
 int main() {
 	bool b[8][8] = {};
 	int a;
